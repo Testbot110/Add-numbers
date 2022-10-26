@@ -1,0 +1,1 @@
+{"name":"Local: Add two numbers","url":"c:\\Users\\Rajkumar Dake\\OneDrive\\Documents\\GitHub\\Add-numbers\\Add two numbers.cpp","tests":[{"id":1666799819126,"input":"2 3","output":"5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Rajkumar Dake\\OneDrive\\Documents\\GitHub\\Add-numbers\\Add two numbers.cpp","group":"local","local":true}
